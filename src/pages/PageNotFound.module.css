@@ -1,0 +1,20 @@
+.error{
+  background-color: #a82727;
+  color: white;
+  border-radius: 6px;
+  padding: 3rem;
+  margin: 3rem auto;
+  width: 90%;
+  max-width: 40rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.error h1{
+    font-size: 3rem;
+}
+.error h2{
+    font-size: 2rem;
+}
